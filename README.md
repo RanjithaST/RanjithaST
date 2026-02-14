@@ -5,7 +5,7 @@
 
 - I’m currently learning **Python Fullstack development with Cloud and Devops**
 
-- Contact - **ranjithast009@gmail.com**
+- Contact me - **ranjithast009@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

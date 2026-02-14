@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ranjitha S T</h1>
 <h3 align="center">Aspiring Software Engineer interested in Python and web development, and I love learning new technologies. I enjoy building projects and improving my skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjithast&label=Profile%20views&color=0e75b6&style=flat" alt="ranjithast" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjithast&label=Profile%20views&color=0e75b6&style=flat" alt="ranjithast" /> </p> -->
 
 - I’m currently learning **Python Fullstack development with Cloud and Devops**
 

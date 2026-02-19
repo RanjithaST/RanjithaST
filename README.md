@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjithast&label=Profile%20views&color=0e75b6&style=flat" alt="ranjithast" /> </p> -->
 
-- I’m currently learning **Python Fullstack development with Cloud and Devops**
+- I’m currently learning **Python Fullstack development with GenAI, Cloud and Devops**
 
 - Contact me - **ranjithast009@gmail.com**
 
